@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app main color-->
+    <color name="colorPrimary">#AFB42B</color>
+    <color name="colorPrimaryDark">#9E9D24</color>
+    <color name="colorAccent">#CDDC39</color>
+    <color name="colorBackgroundLight">#FFFFFF</color>
+
+    <!--dark theme color-->
+    <color name="colorStatusBarDark">#101D24</color>
+    <color name="colorToolbarDark">#222D36</color>
+    <color name="colorAccentDark">#CDDC39</color>
+    <color name="colorBackgroundDark">#101D24</color>
+
+    <!--others-->
+    <color name="colorShimmer">#BCBEC1</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="grey_soft">#F5F5F5</color>
+    <color name="player_background">#CC000000</color>
+
+</resources>

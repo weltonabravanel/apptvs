@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">Brasil Tube TV</string>
+
+    <!--bottom navigation menu name-->
+    <string name="title_nav_recent">Recente</string>
+    <string name="title_nav_category">Acervo</string>
+    <string name="title_nav_favorite">Favoritos</string>
+    <string name="title_nav_settings">Configurar</string>
+
+    <!--search-->
+    <string name="search">Procurar</string>
+    <string name="search_hint">Procurar&#8230;</string>
+
+    <!--share-->
+    <string name="share_title">estou transmitindo ao vivo</string>
+    <string name="share_content">Eu gostaria de compartilhar isso com você. Aqui você pode baixar este aplicativo da PlayStore</string>
+
+    <!--network-->
+    <string name="whops">Whoops!</string>
+    <string name="no_internet_text">Sem conexão com a Internet, conecte seu telefone à Internet para continuar usando este aplicativo.</string>
+    <string name="network_required">Necessário Internet para Transmitir o Canal!</string>
+    <string name="no_category_found">Ops, Nenhuma categoria encontrada!</string>
+    <string name="no_post_found">parece que não há canal disponível no momento</string>
+    <string name="no_search_found">Nenhum canal encontrado! se você quiser continuar a pesquisa, tente inserir outra palavra-chave!</string>
+    <string name="msg_search_input">Insira a palavra-chave</string>
+    <string name="msg_oops">Opa!</string>
+    <string name="failed_text">há algum problema com sua rede ou o servidor está inoperante, tente novamente mais tarde.</string>
+    <string name="msg_failed">Falha ao carregar a transmissão, provavelmente o servidor da transmissão está inoperante!</string>
+    <string name="error_player">Ocorreu um erro ao inicializar o YouTubePlayer(%1$s)</string>
+    <string name="msg_cancel_update">Atualização Cancelada</string>
+    <string name="msg_success_update">Atualização Concluida!</string>
+    <string name="msg_failed_update">Erro de Atualização!</string>
+    <string name="option_retry">Tentar novamente</string>
+    <string name="option_ok">OK</string>
+    <string name="option_no">Não</string>
+
+    <!--favorite-->
+    <string name="favorite_added">Adicionado ao favorito</string>
+    <string name="favorite_removed">Removido do Favorito</string>
+    <string name="no_favorite_found">Sua lista de favoritos está vazia porque você não adicionou nenhum canal no menu de favoritos</string>
+
+    <!--popup menu-->
+    <string name="option_set_favorite">Adicionar aos favoritos</string>
+    <string name="option_unset_favorite">Remover favorito</string>
+    <string name="option_set_share">Compartilhar</string>
+    <string name="option_set_quick_play">Jogo rápido</string>
+
+    <!--close message-->
+    <string name="press_again_to_exit">Pressione novamente para sair do aplicativo</string>
+    <string name="press_again_to_close_player">Pressione novamente para fechar o player</string>
+
+    <!--dialog choose option-->
+    <string name="dialog_ok">OK</string>
+
+    <!--settings-->
+    <string name="title_setting_theme">Tema escuro</string>
+    <string name="sub_title_setting_theme">Melhor para a visão e duração da bateria</string>
+    <string name="title_setting_list">Canal de exibição</string>
+    <string name="single_choice_default">Lista</string>
+    <string name="single_choice_grid2">Grade (2 column)</string>
+    <string name="single_choice_grid3">Grade (3 column)</string>
+    <string name="title_setting_category">Categoria de exibição</string>
+    <string name="single_choice_list">List</string>
+    <string name="single_choice_grid_2">Grade (2 column)</string>
+    <string name="single_choice_grid_3">Grade (3 column)</string>
+    <string name="title_setting_player">Modo jogador</string>
+    <string name="player_portrait">Retrato</string>
+    <string name="player_landscape">Paisagem</string>
+    <string name="title_setting_privacy">política de Privacidade</string>
+    <string name="sub_title_setting_privacy">Termos e condições do aplicativo Políticas</string>
+    <string name="title_setting_rate">Nos avalie</string>
+    <string name="sub_title_setting_rate">Deixe um comentário no Google Play</string>
+    <string name="title_setting_more">Mais aplicativos</string>
+    <string name="sub_title_setting_more">Mais aplicativos do desenvolvedor</string>
+    <string name="title_setting_about">Sobre</string>
+    <string name="sub_title_setting_about">Informações do aplicativo, versão de compilação, direitos autorais</string>
+    <string name="sub_about_app_version">Versão</string>
+    <string name="sub_about_app_copyright">Copyright &#169; 2023 Brasil Tube Developer \ Direitos Reservados</string>
+
+    <!--redirect if app suspended-->
+    <string name="redirect_title">Novas atualizações de aplicativos</string>
+    <string name="redirect_message">Este aplicativo expirou e não é mais usado, pressione o botão abaixo para baixar e instalar a atualização mais recente deste aplicativo.</string>
+    <string name="redirect_button">Baixe a atualização agora</string>
+    <string name="redirect_error">Opa! há um problema com a url, tente novamente mais tarde</string>
+
+    <!--other-->
+    <string name="txt_suggested">Sugerido :</string>
+    <string name="img_content_description">TODO</string>
+    <string name="title_menu_browser">Abra no navegador</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723748154696",
+    "project_id": "braziltubetv",
+    "storage_bucket": "braziltubetv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723748154696:android:1c5457e8cb07c24b98d77d",
+        "android_client_info": {
+          "package_name": "com.app.braziltube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723748154696-dq19u9bi00q1t790ududla4p5lmtrb7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS6Cn1aHNX2NahNdt4GY_XsZcB0FDp478"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723748154696-dq19u9bi00q1t790ududla4p5lmtrb7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
